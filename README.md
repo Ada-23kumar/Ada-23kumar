@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hello World! i'm Adarsh Kumar from a base from Zero to become top as Hero
+<h2>Hello World! i'm Adarsh Kumar from a base from Zero to become top as Hero</h2>
 
 
 # 💻 Tech Stack:
